@@ -1,0 +1,6 @@
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Game Backend\bin\Debug\Game Backend.dll
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Game Backend\bin\Debug\Game Backend.pdb
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Game Backend\obj\Debug\Game Backend.csproj.AssemblyReference.cache
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Game Backend\obj\Debug\Game Backend.csproj.CoreCompileInputs.cache
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Game Backend\obj\Debug\Game Backend.dll
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Game Backend\obj\Debug\Game Backend.pdb

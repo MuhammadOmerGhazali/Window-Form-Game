@@ -1,0 +1,22 @@
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\bin\Debug\net8.0-windows\Window Form Game.exe
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\bin\Debug\net8.0-windows\Window Form Game.deps.json
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\bin\Debug\net8.0-windows\Window Form Game.runtimeconfig.json
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\bin\Debug\net8.0-windows\Window Form Game.dll
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\bin\Debug\net8.0-windows\Window Form Game.pdb
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\bin\Debug\net8.0-windows\EZInput.dll
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\bin\Debug\net8.0-windows\Game Backend.dll
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\bin\Debug\net8.0-windows\Game Backend.pdb
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.csproj.AssemblyReference.cache
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window_Form_Game.Main.resources
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.csproj.GenerateResource.cache
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.AssemblyInfoInputs.cache
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.AssemblyInfo.cs
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.csproj.CoreCompileInputs.cache
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.csproj.CopyComplete
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.dll
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\refint\Window Form Game.dll
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.pdb
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.genruntimeconfig.cache
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\ref\Window Form Game.dll
+D:\university\lab_pr\2nd semester\OOP\Games\Window Form Game\Window Form Game\obj\Debug\net8.0-windows\Window Form Game.sourcelink.json
